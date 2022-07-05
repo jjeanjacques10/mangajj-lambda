@@ -1,0 +1,11 @@
+{
+  "resource": "/{proxy+}",
+  "requestContext": {},
+  "queryStringParameters": {
+    "title": "naruto",
+    "chapter": "1"
+  },
+  "headers": {},
+  "httpMethod": "GET",
+  "path": "/chapter"
+}
