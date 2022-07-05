@@ -1,7 +1,7 @@
 # Lambda Extract MangaJJ
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jjeanjacques10/extract-mangajj-lambda/main/files/MangaJJLogo.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/jjeanjacques10/mangajj/main/files/MangaJJLogo.jpg" width="300"/>
     <br />
     <br />
     <a href="https://github.com/jjeanjacques10/extract-mangajj-lambda/issues">Report Bug</a>
