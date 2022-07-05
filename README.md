@@ -1,27 +1,27 @@
 # Lambda Extract MangaJJ
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jjeanjacques10/mangajj/main/files/MangaJJLogo.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/jjeanjacques10/extract-mangajj-lambda/main/files/MangaJJLogo.jpg" width="300"/>
     <br />
     <br />
-    <a href="https://github.com/jjeanjacques10/mangajj/issues">Report Bug</a>
+    <a href="https://github.com/jjeanjacques10/extract-mangajj-lambda/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jjeanjacques10/mangajj/issues">Request Feature</a>
+    <a href="https://github.com/jjeanjacques10/extract-mangajj-lambda/issues">Request Feature</a>
 </p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/jjean-jacques10/">
       <img alt="Jean Jacques Barros" src="https://img.shields.io/badge/-JeanJacquesBarros-FFCC00?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jjeanjacques10/mangajj?color=FFCC00">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jjeanjacques10/extract-mangajj-lambda?color=FFCC00">
 
-  <a href="https://github.com/jjeanjacques10/mangajj/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jjeanjacques10/mangajj?color=FFCC00">
+  <a href="https://github.com/jjeanjacques10/extract-mangajj-lambda/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jjeanjacques10/extract-mangajj-lambda?color=FFCC00">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-FFCC00">
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/jjeanjacques10/mangajj?color=FFCC00" />
-  <a href="https://github.com/jjeanjacques10/mangajj/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/jjeanjacques10/mangajj?color=FFCC00&logo=github">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/jjeanjacques10/extract-mangajj-lambda?color=FFCC00" />
+  <a href="https://github.com/jjeanjacques10/extract-mangajj-lambda/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jjeanjacques10/extract-mangajj-lambda?color=FFCC00&logo=github">
   </a>
 </p>
 
