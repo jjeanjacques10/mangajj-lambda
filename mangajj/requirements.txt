@@ -1,2 +1,3 @@
-requests
+pymangaj
 pytest
+urllib3<2

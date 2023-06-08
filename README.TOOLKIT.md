@@ -10,8 +10,8 @@ The code for this application will differ based on the runtime, but the path to 
 
 AWS Toolkit For Visual Studio Code supports local debugging for serverless applications through VS Code's debugger. Since this application was created by the AWS Toolkit, launch configurations for all included handlers have been generated and can be found in the menu next to the Run button:
 
-* extract-mangajj-lambda:HelloWorldFunction (python3.7)
-* API extract-mangajj-lambda:HelloWorldFunction (python3.7)
+* mangajj-lambda:HelloWorldFunction (python3.7)
+* API mangajj-lambda:HelloWorldFunction (python3.7)
 
 You can debug the Lambda handlers locally by adding a breakpoint to the source file, then running the launch configuration. This works by using Docker on your local machine.
 
