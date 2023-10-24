@@ -11,7 +11,7 @@ def get_source(source):
 def lambda_handler(event, context):
     title = event['queryStringParameters']['title']
     chapter_number = event['queryStringParameters']['chapter']
-    source = event['queryStringParameters'].get('source', 'manga_livre')
+    source = event['queryStringParameters'].get('source', 'muito_manga')
     print(f"title:{title}, chapter_number:{chapter_number}, source: {source}")
 
     pages = pymangaj.search(title, chapter_number, sources=[get_source(source)])
