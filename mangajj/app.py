@@ -5,13 +5,14 @@ from pymangaj import pymangaj, Sources
 def get_source(source):
     return {
         "manga_livre": Sources.MANGA_LIVRE,
-        "muito_manga": Sources.MUITO_MANGA
+        "muito_manga": Sources.MUITO_MANGA,
+        "ler_manga": Sources.LER_MANGA
     }[source]
 
 def lambda_handler(event, context):
     title = event['queryStringParameters']['title']
     chapter_number = event['queryStringParameters']['chapter']
-    source = event['queryStringParameters'].get('source', 'muito_manga')
+    source = event['queryStringParameters'].get('source', 'ler_manga')
     print(f"title:{title}, chapter_number:{chapter_number}, source: {source}")
 
     pages = pymangaj.search(title, chapter_number, sources=[get_source(source)])
